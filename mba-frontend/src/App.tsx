@@ -6,9 +6,10 @@ const App: React.FC = () => {
   return (
     <div className="App">
       <Header />
-      <div className="App-header">        
+      <div className="App-body">        
+
         <p>
-          Body goes here 
+          Under Construction
         </p>
         
       </div>
