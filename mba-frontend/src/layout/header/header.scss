@@ -1,9 +1,33 @@
 .App-header{
-    background: black;
-    color: white;
-    text-align: center;
-    margin-top: 10%;
-    .App-logo{
-        width: 40%;
+    background: #F2F2F2;
+    color: #262626;
+    text-align: left;    
+
+    Nav{
+        display: inline-block;
     }
+    .Logo-section{
+        margin-top: 10px;
+        width: 20%;
+        text-align: center;
+        display: inline-block;
+        .App-logo{
+            width: 50px;
+            p{
+                margin: 0;
+                padding: 0;
+            }
+        }
+        .Title{
+            font-family: 'Goblin One', cursive;
+        }
+
+        .Title-details{
+            font-size: 10px;
+            font-family: 'Goblin One', cursive;
+            
+        }
+
+    }
+
 }
