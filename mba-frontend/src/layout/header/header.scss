@@ -3,12 +3,51 @@
     color: #262626;
     text-align: left;    
 
+    display: grid;
+    grid-template-columns: 60% 40%;
     Nav{
         display: inline-block;
+
+        ul {
+            list-style-type: none;
+            margin: 0;
+            margin-top: 15%;
+            padding: 0;
+            overflow: hidden;
+            font-family: Roboto;
+            font-weight: bold;
+            background-color: #F2F2F2;
+            li {
+                float: left;
+
+                margin-right: 10px;
+              }
+              
+              li a {
+                display: block;
+                color: #262626;
+                text-align: center;
+                padding: 14px 16px;
+                text-decoration: none;
+                
+                
+              }
+              
+              li a:hover:not(.active) {
+                background-color: #BFBFBF;
+                border-bottom: solid;
+              }
+              
+              .active {
+                background-color: #4CAF50;
+              }
+          }
+          
+        
     }
     .Logo-section{
         margin-top: 10px;
-        width: 20%;
+        width: 30%;
         text-align: center;
         display: inline-block;
         .App-logo{
@@ -31,3 +70,5 @@
     }
 
 }
+
+
