@@ -1,6 +1,7 @@
 import React from 'react';
 import './Homepage.scss';
 import BrandPromise from './BrandPromise/BrandPromise';
+import Services from './Services/Services';
 
 
 const Homepage: React.FC = () => {
@@ -14,12 +15,12 @@ const Homepage: React.FC = () => {
           
         </div>
         <div className="Right-content">
-          MBA Enterprise is the largest logistics company in carlsbad NM. 
+          MBA Enterprise is the largest logistics company in Carlsbad NM. 
           We ensure the delivery of fracking water to and from drilling sites.
         </div>
       </div>
       <div className="Section2">
-        Details  
+        <Services />
       </div>
       <div className="Section3">
         Links  

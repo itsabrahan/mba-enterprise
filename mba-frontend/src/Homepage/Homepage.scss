@@ -6,7 +6,7 @@
         width: 100%;
 
         .Blur{
-            filter: blur(2px) brightness(0.35);
+            filter: blur(3px) brightness(0.85);
             background-image: url('mba.jpg');
             width: 100%;
             height: 100%;
@@ -20,23 +20,32 @@
             position: relative;
             width: 50%;
             float: left;
-            top: -320px;
+            top: -100%;
             text-align: left;
         }
         .Right-content{
+            text-align: left;
+            top: -100%;
+            margin-top: 10%;
             font-family: Roboto;
             position: relative;
-            width: 50%;
+            width: 35%;
+            margin-right: 4%;
             float: right;
-            top: -320px;
+            color: white;
+            background: #4a4a4a57;
+            border: solid 1px #4f4f4fb3;
+            border-radius: 3px;
+            padding: 5%;
+
         }
 
     }
 
 
     .Section2{
-        height: 450px;
-        background: none;
+        height: fit-content;
+        background: #F2F2F2;
     }
 
     .Section3{

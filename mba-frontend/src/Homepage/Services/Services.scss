@@ -1,0 +1,29 @@
+.Services{
+    color: black;
+ 
+
+
+    .Title{
+
+        .Title-span{
+            margin-bottom: 5%;
+        }
+
+        background: #F2F2F2;
+        width: 100%;
+        text-align: center;
+        padding-top: 5%;
+        font-size: 22px;
+        position: absolute;
+        font-weight: bold;
+        
+        .Services-grid{
+            font-weight: 100;
+            margin-top: 5%;
+            width: 100%;
+            display: grid;
+            grid-template-rows: 200px 200px;
+            grid-template-columns: 50% 50%;
+        }
+    }
+}
