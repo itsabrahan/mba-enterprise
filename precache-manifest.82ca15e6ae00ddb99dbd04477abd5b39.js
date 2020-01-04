@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "34a036c130975103f6657184403d622a",
+    "revision": "6c4592b3b694756049afe936d0293fba",
     "url": "/mba-enterprise/index.html"
   },
   {
-    "revision": "64dee1fd316459dd0990",
+    "revision": "284db91d656bec894942",
     "url": "/mba-enterprise/static/css/main.c74a091c.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mba-enterprise/static/js/2.d351852c.chunk.js.LICENSE"
   },
   {
-    "revision": "64dee1fd316459dd0990",
-    "url": "/mba-enterprise/static/js/main.12430459.chunk.js"
+    "revision": "284db91d656bec894942",
+    "url": "/mba-enterprise/static/js/main.6706f5d1.chunk.js"
   },
   {
     "revision": "5c779d86ba8917bbce23",
