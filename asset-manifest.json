@@ -1,23 +1,25 @@
 {
   "files": {
-    "main.css": "/mba-enterprise/static/css/main.cfd24d03.chunk.css",
-    "main.js": "/mba-enterprise/static/js/main.48cb7167.chunk.js",
-    "main.js.map": "/mba-enterprise/static/js/main.48cb7167.chunk.js.map",
+    "main.css": "/mba-enterprise/static/css/main.c74a091c.chunk.css",
+    "main.js": "/mba-enterprise/static/js/main.12430459.chunk.js",
+    "main.js.map": "/mba-enterprise/static/js/main.12430459.chunk.js.map",
     "runtime-main.js": "/mba-enterprise/static/js/runtime-main.8c6245b1.js",
     "runtime-main.js.map": "/mba-enterprise/static/js/runtime-main.8c6245b1.js.map",
-    "static/js/2.ce134d53.chunk.js": "/mba-enterprise/static/js/2.ce134d53.chunk.js",
-    "static/js/2.ce134d53.chunk.js.map": "/mba-enterprise/static/js/2.ce134d53.chunk.js.map",
+    "static/js/2.d351852c.chunk.js": "/mba-enterprise/static/js/2.d351852c.chunk.js",
+    "static/js/2.d351852c.chunk.js.map": "/mba-enterprise/static/js/2.d351852c.chunk.js.map",
     "index.html": "/mba-enterprise/index.html",
-    "precache-manifest.9d097246652e2691e87ba0078c3da336.js": "/mba-enterprise/precache-manifest.9d097246652e2691e87ba0078c3da336.js",
+    "precache-manifest.eea38c79f0b8d5db5b2eedceeb201de2.js": "/mba-enterprise/precache-manifest.eea38c79f0b8d5db5b2eedceeb201de2.js",
     "service-worker.js": "/mba-enterprise/service-worker.js",
-    "static/css/main.cfd24d03.chunk.css.map": "/mba-enterprise/static/css/main.cfd24d03.chunk.css.map",
-    "static/js/2.ce134d53.chunk.js.LICENSE": "/mba-enterprise/static/js/2.ce134d53.chunk.js.LICENSE",
-    "static/media/logo.svg": "/mba-enterprise/static/media/logo.3deaf9ea.svg"
+    "static/css/main.c74a091c.chunk.css.map": "/mba-enterprise/static/css/main.c74a091c.chunk.css.map",
+    "static/js/2.d351852c.chunk.js.LICENSE": "/mba-enterprise/static/js/2.d351852c.chunk.js.LICENSE",
+    "static/media/BrandPromise.scss": "/mba-enterprise/static/media/world-grid-with-arrow.36cb4324.svg",
+    "static/media/logo.svg": "/mba-enterprise/static/media/logo.e9c6c2bf.svg",
+    "static/media/Homepage.scss": "/mba-enterprise/static/media/mba.2f034ffb.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.8c6245b1.js",
-    "static/js/2.ce134d53.chunk.js",
-    "static/css/main.cfd24d03.chunk.css",
-    "static/js/main.48cb7167.chunk.js"
+    "static/js/2.d351852c.chunk.js",
+    "static/css/main.c74a091c.chunk.css",
+    "static/js/main.12430459.chunk.js"
   ]
 }
