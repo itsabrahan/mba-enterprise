@@ -9,7 +9,7 @@ import About from './About/About';
 const App: React.FC = () => {
   return (
     <div className="App">
-     <Router>
+     <Router basename={process.env.PUBLIC_URL}>
       <Header />
       <Switch>
           <Route exact path='/' component={Homepage} />
