@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/mba-enterprise/static/css/main.c74a091c.chunk.css",
-    "main.js": "/mba-enterprise/static/js/main.6706f5d1.chunk.js",
-    "main.js.map": "/mba-enterprise/static/js/main.6706f5d1.chunk.js.map",
-    "runtime-main.js": "/mba-enterprise/static/js/runtime-main.8c6245b1.js",
-    "runtime-main.js.map": "/mba-enterprise/static/js/runtime-main.8c6245b1.js.map",
-    "static/js/2.d351852c.chunk.js": "/mba-enterprise/static/js/2.d351852c.chunk.js",
-    "static/js/2.d351852c.chunk.js.map": "/mba-enterprise/static/js/2.d351852c.chunk.js.map",
-    "index.html": "/mba-enterprise/index.html",
-    "precache-manifest.82ca15e6ae00ddb99dbd04477abd5b39.js": "/mba-enterprise/precache-manifest.82ca15e6ae00ddb99dbd04477abd5b39.js",
-    "service-worker.js": "/mba-enterprise/service-worker.js",
-    "static/css/main.c74a091c.chunk.css.map": "/mba-enterprise/static/css/main.c74a091c.chunk.css.map",
-    "static/js/2.d351852c.chunk.js.LICENSE": "/mba-enterprise/static/js/2.d351852c.chunk.js.LICENSE",
-    "static/media/BrandPromise.scss": "/mba-enterprise/static/media/world-grid-with-arrow.36cb4324.svg",
-    "static/media/logo.svg": "/mba-enterprise/static/media/logo.e9c6c2bf.svg",
-    "static/media/Homepage.scss": "/mba-enterprise/static/media/mba.2f034ffb.jpg"
+    "main.css": "/static/css/main.6bd00357.chunk.css",
+    "main.js": "/static/js/main.e9d10702.chunk.js",
+    "main.js.map": "/static/js/main.e9d10702.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.630971f5.js",
+    "runtime-main.js.map": "/static/js/runtime-main.630971f5.js.map",
+    "static/js/2.d351852c.chunk.js": "/static/js/2.d351852c.chunk.js",
+    "static/js/2.d351852c.chunk.js.map": "/static/js/2.d351852c.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.95b19ce96bc5afa8797dd18c2fa3cd60.js": "/precache-manifest.95b19ce96bc5afa8797dd18c2fa3cd60.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.6bd00357.chunk.css.map": "/static/css/main.6bd00357.chunk.css.map",
+    "static/js/2.d351852c.chunk.js.LICENSE": "/static/js/2.d351852c.chunk.js.LICENSE",
+    "static/media/BrandPromise.scss": "/static/media/world-grid-with-arrow.36cb4324.svg",
+    "static/media/logo.svg": "/static/media/logo.e9c6c2bf.svg",
+    "static/media/Homepage.scss": "/static/media/mba.2f034ffb.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.8c6245b1.js",
+    "static/js/runtime-main.630971f5.js",
     "static/js/2.d351852c.chunk.js",
-    "static/css/main.c74a091c.chunk.css",
-    "static/js/main.6706f5d1.chunk.js"
+    "static/css/main.6bd00357.chunk.css",
+    "static/js/main.e9d10702.chunk.js"
   ]
 }
