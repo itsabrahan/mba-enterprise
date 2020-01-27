@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.6bd00357.chunk.css",
-    "main.js": "/static/js/main.e9d10702.chunk.js",
-    "main.js.map": "/static/js/main.e9d10702.chunk.js.map",
+    "main.css": "/static/css/main.15a2ba44.chunk.css",
+    "main.js": "/static/js/main.494092d4.chunk.js",
+    "main.js.map": "/static/js/main.494092d4.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.630971f5.js",
     "runtime-main.js.map": "/static/js/runtime-main.630971f5.js.map",
     "static/js/2.d351852c.chunk.js": "/static/js/2.d351852c.chunk.js",
     "static/js/2.d351852c.chunk.js.map": "/static/js/2.d351852c.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.95b19ce96bc5afa8797dd18c2fa3cd60.js": "/precache-manifest.95b19ce96bc5afa8797dd18c2fa3cd60.js",
+    "precache-manifest.25b1b9afcc3db8f8b82e3a57e508d562.js": "/precache-manifest.25b1b9afcc3db8f8b82e3a57e508d562.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.6bd00357.chunk.css.map": "/static/css/main.6bd00357.chunk.css.map",
+    "static/css/main.15a2ba44.chunk.css.map": "/static/css/main.15a2ba44.chunk.css.map",
     "static/js/2.d351852c.chunk.js.LICENSE": "/static/js/2.d351852c.chunk.js.LICENSE",
     "static/media/BrandPromise.scss": "/static/media/world-grid-with-arrow.36cb4324.svg",
     "static/media/logo.svg": "/static/media/logo.e9c6c2bf.svg",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.630971f5.js",
     "static/js/2.d351852c.chunk.js",
-    "static/css/main.6bd00357.chunk.css",
-    "static/js/main.e9d10702.chunk.js"
+    "static/css/main.15a2ba44.chunk.css",
+    "static/js/main.494092d4.chunk.js"
   ]
 }
