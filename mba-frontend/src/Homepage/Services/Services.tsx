@@ -7,10 +7,10 @@ const Services: React.FC = () => {
       <div className="Title">
         <span className="Title-span">Services</span>
         <div className="Services-grid">
-          <div>Fracking water and sand hauling accross the permian basin.</div>
-          <div>Fracking water and sand hauling accross the permian basin.</div>
-          <div>Fracking water and sand hauling accross the permian basin.</div>
-          <div>Fracking water and sand hauling accross the permian basin.</div>
+          <div>Fresh, Brine  and production water hauling </div>
+          <div>KCL transportation </div>
+          <div>OBM - oil base mud - transportation</div>
+          <div>Power Washing for oil field equipment</div>
         </div>
       </div>
     </div>

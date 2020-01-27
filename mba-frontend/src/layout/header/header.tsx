@@ -2,7 +2,6 @@ import React from "react";
 import "./Header.scss";
 import logo from "./logo.svg";
 import { Link } from "react-router-dom";
-import classes from "*.module.css";
 import { makeStyles, Theme, createStyles } from "@material-ui/core/styles";
 import Modal from "@material-ui/core/Modal";
 
@@ -58,6 +57,20 @@ const Header: React.FC = () => {
           <span className="Title-details">Enterprise, LLC.</span>
         </p>
       </div>
+      <div className="Contact">
+        <div className="Contact-section Phone">
+
+        <h4>Phone : </h4>
+          <a href="tel:1-575-200-9824"> (575)-200-9824</a>
+        </div>
+        <br></br>
+        <div className="Contact-section">
+          <h4>Email : </h4>
+          <a  href="mailto:mba_enterprise@hotmail.com"> mba_enterprise@hotmail.com</a> 
+          
+        </div>
+          
+      </div>
 
       <nav className="Navbar">
         <ul className="navbar-nav mr-auto">
@@ -68,9 +81,9 @@ const Header: React.FC = () => {
             </Link>
           </li>
           <li>
-            <a onClick={handleOpen} className="nav-link">
+            <p onClick={handleOpen} className="nav-link">
               Contact
-            </a>
+            </p>
           </li>
           <li>
             <Link to={"/about"} className="nav-link">

@@ -9,25 +9,33 @@ const BrandPromise: React.FC = () => {
           <td>
             <div className="Svg Water-truck"></div>
           </td>
-          <td>Dedicated crew</td>
+          <td>
+            <p>Dedicated crew</p>
+          </td>
         </tr>
         <tr>
           <td>
             <div className="Svg Logistics"></div>
           </td>
-          <td>Coordinated Logistics</td>
+          <td>
+            <p>Coordinated Logistics</p>
+          </td>
         </tr>
         <tr>
           <td>
             <div className="Svg Timely"></div>
           </td>
-          <td>On time delivery</td>
+          <td>
+            <p>On time delivery</p>
+          </td>
         </tr>
         <tr>
           <td>
             <div className="Svg Transportation"></div>
           </td>
-          <td>Transportation across the permian basin</td>
+          <td>
+            <p>Transportation across the permian basin</p>
+          </td>
         </tr>
       </table>
     </div>

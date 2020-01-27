@@ -1,83 +1,116 @@
-.App-header{
-    background: #F2F2F2;
-    color: #262626;
-    border-bottom: 3px solid;
-    text-align: left;    
+.App-header {
+  background: #f2f2f2;
+  color: #262626;
+  border-bottom: 3px solid;
+  text-align: left;
 
-    display: grid;
-    grid-template-columns: 60% 40%;
-    Nav{
-        display: inline-block;
+  display: grid;
+  grid-template-columns: 15% 50% 35%;
+  nav {
+    display: inline-block;
 
-        ul {
-            list-style-type: none;
-            margin: 0;
-            margin-top: 15%;
-            padding: 0;
-            overflow: hidden;
-            font-family: Roboto;
-            font-weight: bold;
-            background-color: #F2F2F2;
-            li {
-                float: left;
+    ul {
+      list-style-type: none;
+      margin: 0;
+      margin-top: 15%;
+      padding: 0;
+      overflow: hidden;
+      font-family: Roboto;
+      font-weight: bold;
+      background-color: #f2f2f2;
+      li {
+        float: left;
 
-                margin-right: 10px;
-              }
+        margin-right: 10px;
+      }
 
-              div{
-                display: block;
-                color: #262626;
-                text-align: center;
-                padding: 14px 16px;
-                text-decoration: none;
-              }
-              
-              li a {
-                display: block;
-                color: #262626;
-                text-align: center;
-                padding: 14px 16px;
-                text-decoration: none;
-                
-                
-              }
-              
-              li a:hover:not(.active) {
-                background-color: #BFBFBF;
-                border-bottom: solid;
-              }
-              
-              .active {
-                background-color: #4CAF50;
-              }
-          }
-          
-        
-    }
-    .Logo-section{
-        margin-top: 10px;
-        width: 30%;
+      li p {
+        display: block;
+        color: #262626;
         text-align: center;
-        display: inline-block;
-        .App-logo{
-            width: 50px;
-            p{
-                margin: 0;
-                padding: 0;
-            }
-        }
-        .Title{
-            font-family: 'Goblin One', cursive;
-        }
+        padding-left: 14px;
+        padding-right: 14px;
+        text-decoration: none;
+      }
+      li a {
+        display: block;
+        color: #262626;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+      }
 
-        .Title-details{
-            font-size: 10px;
-            font-family: 'Goblin One', cursive;
-            
-        }
+      li a:hover:not(.active) {
+        background-color: #bfbfbf;
+        border-bottom: solid;
+      }
 
+      .active {
+        background-color: #4caf50;
+      }
+    }
+  }
+  .Logo-section {
+    margin-top: 10px;
+    width: 100%;
+    text-align: center;
+    display: inline-block;
+    .App-logo {
+      width: 50px;
+      p {
+        margin: 0;
+        padding: 0;
+      }
+    }
+    .Title {
+      font-family: "Goblin One", cursive;
     }
 
+    .Title-details {
+      font-size: 10px;
+      font-family: "Goblin One", cursive;
+    }
+  }
 }
 
+.Contact {
+  .Contact-section {
+    display: inline-block;
+    h4 {
+      display: inline-block;
+      margin: 0;
+      padding: 0;
+    }
+    a {
+      display: inline-block;
+      margin-left: 0.5em;
+      color: gray;
+      text-decoration: none;
+    }
+    margin: 0;
+    padding: 0;
+  }
 
+  .Phone {
+    margin-top: 10%;
+  }
+}
+
+@media only screen and (min-device-width: 375px) and (max-device-width: 812px) {
+  .App-header {
+    background: #f2f2f2;
+    color: #262626;
+    border-bottom: 3px solid;
+    text-align: left;
+    display: grid;
+    grid-template-columns: 25% 75%;
+
+    img{
+        display: none;
+    }
+
+    .Contact {
+      display: none;
+    }
+  }
+}
